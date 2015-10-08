@@ -1,3 +1,11 @@
+.project
+.pydevproject
+config*.py
+sendgrid/*
+smtpapi/*
+resources.py
+_*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -99,3 +107,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+sendgrid/exceptions.py
+sendgrid/sendgrid.py
